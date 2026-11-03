@@ -18,7 +18,6 @@ I build **multilingual NLP systems** for online safety — hate speech, toxicity
 explainable abuse detection — with transformer models, parameter-efficient fine-tuning,
 and retrieval-augmented generation.
 
-- Co-author of **LINUS @ EEUCA 2026**: fine-grained toxicity detection in gaming chat with `mmBERT`.
 - Part of **team paramanandaAI** at **ICON 2026**: HateMirage (explainable faux-hate) and HASTIKA (Kannada–English hate speech).
 - Comfortable across the stack: `PyTorch` training on multi-GPU T4s, `QLoRA`/`PEFT`, and full-stack IoT dashboards.
 
